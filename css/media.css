@@ -1,0 +1,7 @@
+@media (max-width: 530px) {
+  .header-bottom-f {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+}
